@@ -1,0 +1,45 @@
+
+
+#title {
+  text-align: center;
+}
+
+#guest {
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+}
+
+#guest td,
+#guest th {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+#guest tr:hover {
+  background-color: #ddd;
+}
+
+#guest th {
+  padding: 10px;
+  text-align: center;
+  background-color: #4b20e6;
+  color: white;
+}
+
+.opration {
+  text-align: center;
+}
+
+.button {
+  border: none;
+  outline: none;
+  font-size: 13px;
+  font-family: "Quicksand", sans-serif;
+  color: #f44336;
+  padding: 3px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid #eb0422;
+  background-color: transparent;
+}
+
